@@ -1,3 +1,9 @@
+# start
+
+```
+nodemon server.js
+```
+
 # 使用 Node 原生创建 http-server
 
 ```
